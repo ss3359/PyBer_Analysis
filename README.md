@@ -35,4 +35,7 @@ The fifth piece of data to observe is the average fare per driver. Here is the a
 
 <img width="342" alt="Screen Shot 2022-07-16 at 9 48 30 AM" src="https://user-images.githubusercontent.com/104328106/179362039-22b8e8ff-cb71-447b-8d68-00b6f735d073.png">
 
+Finally, the piece of information to examine is how the total fare is affected for each city type. We have conducted this research by creating a line chart displaying the total fares for each week through the span of January through April of 2019. This chart is shown below. 
+
+<img width="1104" alt="Screen Shot 2022-07-16 at 10 16 50 AM" src="https://user-images.githubusercontent.com/104328106/179363207-0a1e8df9-4a01-4921-9082-76dd4778fed0.png">
 
