@@ -26,3 +26,13 @@ The third piece of data to observe is the total fare for each city type. Here is
 <img width="345" alt="Screen Shot 2022-07-16 at 9 35 52 AM" src="https://user-images.githubusercontent.com/104328106/179361616-3d6b18c2-816b-4755-a683-9c839636489a.png">
 
 
+The fourth piece of data to observe is the average fare per ride. Here is the average fare per ride for each city type shown below. 
+
+<img width="319" alt="Screen Shot 2022-07-16 at 9 47 31 AM" src="https://user-images.githubusercontent.com/104328106/179362007-a92ae482-42f5-471f-8a3b-d8db120ee03c.png">
+
+
+The fifth piece of data to observe is the average fare per driver. Here is the average fare per driver for each city type shown below. 
+
+<img width="342" alt="Screen Shot 2022-07-16 at 9 48 30 AM" src="https://user-images.githubusercontent.com/104328106/179362039-22b8e8ff-cb71-447b-8d68-00b6f735d073.png">
+
+
