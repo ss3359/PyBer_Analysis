@@ -21,6 +21,9 @@ The second piece of data to observe is the total number of drivers. Here is the 
 
 <img width="396" alt="Screen Shot 2022-07-16 at 9 22 43 AM" src="https://user-images.githubusercontent.com/104328106/179361199-11c39d30-dbec-40b0-a525-bdd40d725130.png">
 
+From the piece of data, we observe 
+
+
 The third piece of data to observe is the total fare for each city type. Here is the total fare for each city type shown below. 
 
 <img width="345" alt="Screen Shot 2022-07-16 at 9 35 52 AM" src="https://user-images.githubusercontent.com/104328106/179361616-3d6b18c2-816b-4755-a683-9c839636489a.png">
