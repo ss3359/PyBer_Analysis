@@ -39,3 +39,7 @@ Finally, the piece of information to examine is how the total fare is affected f
 
 <img width="1104" alt="Screen Shot 2022-07-16 at 10 16 50 AM" src="https://user-images.githubusercontent.com/104328106/179363207-0a1e8df9-4a01-4921-9082-76dd4778fed0.png">
 
+
+# Summary
+
+
