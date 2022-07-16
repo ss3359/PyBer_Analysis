@@ -49,4 +49,10 @@ Finally, the piece of information to examine is how the total fare is affected f
 
 # Summary
 
-The difference between the three types of cities is the area. Typically, Rural areas are open and spread out with a small population. However, suburban and urban cities are more confined that has a higher population. Suburban cities are residental areas with a medium sized population while Urban cities are working areas that produce the maximum popualtion amount. 
+There are a few things to point out before giving out reccomendations to improve the business and customer satisfaction of PyBer. 
+
+Gnerally, the difference between the three types of cities is the area. Typically, Rural areas are open and spread out with a small population. However, suburban and urban cities are more confined that has a higher population. Suburban cities are residental areas with a medium sized population while Urban cities are working areas that produce the maximum popualtion amount. Rural areas are countrysides where farming natural resurces occur. In suburban cities, there are numerous housing areas available larger cities. Urban areas usually have the higher population as the other two city types. Also, urban cities are congested. 
+
+Here are some reccomendations for the CEO of PyBer to imporve the Pyber ride sharing buisness. People who live in Rural area have a large amount of land that is spread out. Therefore, people are not likely to find office buildings, major grocery store chains, or even shopping malls. Often, these areas have some locally owned businesses such as banks or gasoline stations. This could be the reason Rural cities produced the least total fare. One suggestion is to keep an eye of the target demographic. Cater the ride sharing app to people that live in suburban or urban cities. That way, this will increase profit and will drop the cost dramatically. 
+
+
