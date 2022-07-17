@@ -55,4 +55,7 @@ Gnerally, the difference between the three types of cities is the area. Typicall
 
 Here are some reccomendations for the CEO to imporve the Pyber ride sharing buisness. People who live in Rural area have a large amount of land that is spread out. Therefore, people are not likely to find office buildings, major grocery store chains, or even shopping malls. Often, these areas have some locally owned businesses such as banks or gasoline stations. This could be the reason Rural cities produced the least total fare. One suggestion is to keep an eye of the target demographic. Cater the ride sharing app to people that live in suburban or urban cities. That way, this will increase profit and will drop the cost dramatically. 
 
+Another suggestion is how PyBer ride fare are different than other ride sharing apps such s Uber and Lyft. That way, we can look at how to improve the comany so that the fares will achieve an amount higher than other ride sharing comanies. 
+
+In this project, it would be better to gather more data about the passengers as well. In particular, we can gather data about passengers marital stsus, gender, age, and as optional their educational status. 
 
