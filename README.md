@@ -59,5 +59,5 @@ Another suggestion is how PyBer ride fare are different than other ride sharing 
 
 In this project, it would be better to gather more data about the passengers as well. In particular, we can gather data about passengers marital stsus, gender, age, and as optional their educational status. 
 
-Another suggestion is to market the PyBer ride sharing app to people who live in rural cities since they are the type of cities producing the highest total fare each week. 
+Another suggestion is to market the PyBer ride sharing app to people who live in Urban cities since they are the type of cities producing the highest total fare each week. Not only you will produce the most profit, but the average fare per driver will decrease dramically. 
 
