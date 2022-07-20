@@ -68,4 +68,4 @@ Another suggestion is to market the PyBer ride sharing app to people who live in
 
 Urban cities tend to be compact spaces of land while Rural areas are more spread out, leading Urban cities collecting a lower average fare per ride, while Rural cities collected a higher average ride fare. Therefore, Pyber should record how much mileage distane each ride fare has and then comupte the average mileage for each city type. 
 
-The final suggestion is to launch an advertisement for Pyber. 
+The final suggestion is to launch an advertisement for Pyber. As we can see from the line graph, the peak for all three city types occur at the end of February. This could be a great time to launch a PyBer advertisement, helping the three city types.  
