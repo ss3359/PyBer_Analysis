@@ -42,6 +42,11 @@ The fifth piece of data to observe is the average fare per driver. Here is the a
 
 We find out that Rural cities produced the highest average fare amount for each driver while Urban cities produced the least average fare for each driver. 
 
+Altogether, here is the dataframe displaying the information that was found in the previous information. 
+
+<img width="551" alt="Screen Shot 2022-07-20 at 3 57 40 PM" src="https://user-images.githubusercontent.com/104328106/180089807-9e213b57-3e3e-4d63-b643-082e185838b7.png">
+
+
 Finally, the piece of information to examine is how the total fare is affected for each city type. We have conducted this research by creating a line chart displaying the total fares for each week through the span of January through April of 2019. This chart is shown below. 
 
 <img width="1104" alt="Screen Shot 2022-07-16 at 10 16 50 AM" src="https://user-images.githubusercontent.com/104328106/179363207-0a1e8df9-4a01-4921-9082-76dd4778fed0.png">
@@ -55,9 +60,12 @@ Gnerally, the difference between the three types of cities is the area. Typicall
 
 Here are some reccomendations for the CEO to imporve the Pyber ride sharing buisness. People who live in Rural area have a large amount of land that is spread out. Therefore, people are not likely to find office buildings, major grocery store chains, or even shopping malls. Often, these areas have some locally owned businesses such as banks or gasoline stations. This could be the reason Rural cities produced the least total fare. One suggestion is to keep an eye of the target demographic. Cater the ride sharing app to people that live in suburban or urban cities. That way, this will increase profit and will drop the cost dramatically. 
 
-Another suggestion is how PyBer ride fare are different than other ride sharing apps such s Uber and Lyft. That way, we can look at how to improve the comany so that the fares will achieve an amount higher than other ride sharing comanies. 
+Another suggestion is how PyBer ride fare are different than other ride sharing apps such as Uber and Lyft. That way, we can look at how to improve the comany so that the fares will achieve an amount higher than other ride sharing comanies. 
 
 In this project, it would be better to gather more data about the passengers as well. In particular, we can gather data about passengers marital stsus, gender, age, and as optional their educational status. 
 
 Another suggestion is to market the PyBer ride sharing app to people who live in Urban cities since they are the type of cities producing the highest total fare each week. Not only you will produce the most profit, but the average fare per driver will decrease dramically. 
 
+Urban cities tend to be compact spaces of land while Rural areas are more spread out, leading Urban cities collecting a lower average fare per ride, while Rural cities collected a higher average ride fare. Therefore, Pyber should record how much mileage distane each ride fare has and then comupte the average mileage for each city type. 
+
+The final suggestion is to launch an advertisement for Pyber. 
